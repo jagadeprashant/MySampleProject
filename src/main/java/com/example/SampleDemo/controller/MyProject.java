@@ -8,6 +8,6 @@ public class MyProject {
 
 	@GetMapping("/display")
 	public String MyDisplay() {
-		return "My first project YYY";
+		return "My first project !!!";
 	}
 }
